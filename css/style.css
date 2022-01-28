@@ -1,0 +1,678 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+/*----header-----*/
+header{
+    
+    width: 1140px;
+    margin: 0 auto;
+    height: 380px;
+    background-color: #87509C;
+    padding: 25px 0px;
+}
+.header-top{
+    
+
+}
+.logo{
+    width: 20%;
+    float: left;
+    margin: 0px 0px 0px 25px;
+}
+.menu{
+    width: 80%;
+    float: left;
+    margin: -33px 400px;
+}
+nav ul{
+    list-style:none;
+}
+nav ul li {
+    margin: 0px 10px;
+    
+    
+}
+nav ul li a{
+    color: cornsilk;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin: 0px 31px;
+
+}
+.header-banner{
+    width: 60%;
+    margin: 0 auto;
+    padding: 120px 0px;
+    
+  
+
+}
+.header-banner h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 32px;
+    
+}
+.banner-btn{
+    margin: 38px auto;
+    display: block;
+    background-color: #EB7D4B;
+    padding: 10px 20px;
+    
+    color: rgb(255, 255, 255);
+    border: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    box-shadow: 0px 4px 0px #c86a40;
+    
+   
+}
+
+/*----Servicetext----*/
+.service-text{
+    background-color: #17C2A4;
+    text-align: center;
+    height: 465px ;
+    float: left;
+    width: 100%;
+}
+.service-text h2{
+    margin: 31px;
+    
+
+}
+.service-text span{
+    border: 1px solid black;
+    width: 180px;
+    margin: 19px auto;
+    display: block;
+}
+.service-text p{
+    font-size:18px;
+    text-align: center;
+    width: 60%;
+    margin: 0px 0px 0px 222px;
+    margin-bottom: 40px;
+}
+
+.service-1{
+    width: 25%;
+    float: left;
+
+
+}
+.service-1 img{
+    margin: 0 auto;
+    display: block;
+    
+}
+.service-1 h3{
+    text-align: center;
+    margin: 21px 0px 0px 0px;
+    color: white;
+    
+
+}
+.service-1 p{
+
+    text-align: center;
+    display: block;
+    color: white;
+    width: 232px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.service-2{
+    width: 25%;
+    float: left;
+
+
+}
+.service-2 img{
+    margin: 0 auto;
+    display: block;
+    
+}
+.service-2 h3{
+    text-align: center;
+    margin: 21px 0px 0px 0px;
+    color: white;
+    
+
+}
+.service-2 p{
+
+    text-align: center;
+    display: block;
+    color: white;
+    width: 232px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.service-3{
+    width: 25%;
+    float: left;
+
+
+}
+.service-3 img{
+    margin: 0 auto;
+    display: block;
+    
+}
+.service-3 h3{
+    text-align: center;
+    margin: 21px 0px 0px 0px;
+    color: white;
+    
+
+}
+.service-3 p{
+
+    text-align: center;
+    display: block;
+    color: white;
+    width: 232px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.service-4{
+    width: 25%;
+    float: left;
+
+
+}
+.service-4 img{
+    margin: 0 auto;
+    display: block;
+    
+}
+.service-4 h3{
+    text-align: center;
+    margin: 21px 0px 0px 0px;
+    color: white;
+    
+
+}
+.service-4 p{
+
+    text-align: center;
+    display: block;
+    color: white;
+    width: 232px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+/*--------team section------*/
+
+.team-text{
+    background-color: #D3D3D3;
+    text-align: center;
+    height: 570px;
+    float: left;
+    width: 100%;
+}
+.team-text h2{
+    margin: 31px;
+    
+
+}
+.team-text span{
+    border: 1px solid black;
+    width: 180px;
+    margin: 19px auto;
+    display: block;
+}
+.team-text p{
+    font-size:18px;
+    text-align: center;
+    width: 60%;
+    margin: 0px 0px 0px 222px;
+    margin-bottom: 40px;
+}
+
+.team-1{
+    width: 25%;
+    float: left;
+    
+}
+
+.team-1 img{
+    width: 130px;
+    margin: 0 auto;
+    display: block;
+
+
+}
+.team-1 h3{
+    text-align: center;
+    margin-top: 13px;
+    font-size: 22px;
+    text-transform: uppercase;
+
+
+}
+.team-1 h4{
+    text-align: center;
+    color: #7f4fb6;
+
+   
+    
+}
+.team-1 p{
+    margin: 13px auto;
+    display: block;
+    width: 265px;
+    
+
+}
+.icon{
+    margin-left: -110px;
+   
+}
+
+.icon ul {
+    list-style: none;
+    
+
+}
+.icon ul li{
+    display: inline-block;
+    margin: -11px -52px 0px 62px; 
+
+}
+
+.fa.fa-facebook{
+    background: #9e9e9e;
+    padding: 4px 8px;
+    color: white;
+    border-radius: 18px;
+    
+
+}
+
+.fa.fa-twitter{
+    background: #9e9e9e;
+    padding: 4px 8px;
+    color: white;
+    border-radius: 18px;
+    
+
+
+}
+.fa.fa-linkedin{
+    background: #9e9e9e;
+    padding: 4px 8px;
+    color: white;
+    border-radius: 18px;
+    
+
+}
+.fa.fa-envelope-o{
+    background: #9e9e9e;
+    padding: 4px 8px;
+    color: white;
+    border-radius: 18px;
+
+}
+
+/*---Skill Section---*/
+
+.skill-text{
+    background-color: #ffffff;
+    text-align: center;
+    height: 400px;
+    float: left;
+    width: 100%;
+}
+.skill-text h2{
+    margin: 31px;
+    
+
+}
+.skill-text span{
+    border: 1px solid black;
+    width: 180px;
+    margin: 19px auto;
+    display: block;
+}
+.skill-text p{
+    font-size:18px;
+    text-align: center;
+    width: 60%;
+    margin: 0px 0px 0px 222px;
+    margin-bottom: 40px;
+}
+
+.skill-1{
+    width: 25%;
+    float: left;
+
+
+}
+.skill-1 img{
+    margin: 0 auto;
+    display: block;
+    width: 130px;
+
+
+
+}
+.skill-1 h1{
+    margin: -75px 7px 63px 22px;
+
+}
+.skill-1 h3{
+    text-align: center;
+    margin-top: 13px;
+    font-size: 22px;
+    
+
+}
+/*-------protfolio Section-----*/
+
+.protfolio-text{
+    background: #ffdd99;
+    width: 100%;
+    height: 1000px;
+    float: left;
+
+    
+
+}
+
+.protfolio-text h2{
+
+    text-align: center;
+    margin: 31px 0px 0px 0px;
+    text-transform: capitalize;
+    
+}
+.protfolio-text span{
+    border: 1px solid black;
+    width: 180px;
+    margin: 19px auto;
+    display: block;
+}
+
+.protfolio-text p{
+    font-size:18px;
+    text-align: center;
+    width: 60%;
+    margin: 0px 0px 0px 222px;
+    margin-bottom: 20px;
+
+}
+
+.btns{
+   
+    text-align: center;
+    
+
+}
+.protfolio-btn{
+    display: inline-block;
+    padding: 9px;
+    text-transform: uppercase;
+    background: #c7ac75;
+    border-color: navajowhite;
+    border: none;
+    margin-bottom: 17px;
+    margin-right: 16px;
+       
+}
+.protfolio-1{
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+}
+.protfolio-1 img{
+    width: 380px;
+    display: block;
+    margin: 15px auto;
+
+}
+
+.protfolio-2{
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+
+}
+.protfolio-2 h2{
+    margin-bottom:40px ;
+}
+.protfolio-2 img{
+    width: 380px;
+    display: block;
+    margin: 15px auto;
+}
+
+.prt-btn{
+    display: block;
+    background-color: #30D0C1;
+    padding: 21px;
+    color: rgb(0, 0, 0);
+    border: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    box-shadow: 0px 4px 0px #009688;
+    margin: 0 auto;
+}
+
+/*----- About section-------- */
+
+.about-text{
+    background: #D74680;
+    width: 100%;
+    height: 520px;
+    float: left;
+}
+
+.about-text h2 {
+    text-align: center;
+    margin: 31px 0px 0px 0px;
+    text-transform: capitalize;
+    color: white;
+}
+
+.about-text span {
+    width: 83px;
+    border: 1px solid black;
+    display: block;
+    margin: 19px auto;
+}
+
+.about-text p {
+    text-align: center;
+    font-size: 20px;
+    width: 671px;
+    margin: 0px 0px 0px 241px;
+    color: white;
+}
+
+.about-one{
+    width: 50%;
+    float: left;
+}
+
+.about-img{
+    width: 25%;
+    float: left;
+}
+
+
+
+.about-img img {
+    width: 123px;
+    margin: 28px auto;
+    display: block;
+    padding: 0px 0px 0px 60px;
+}
+
+.about-text1{
+    width: 25%;
+    float: left;
+}
+
+.about-text1 p {
+    color: white;
+    margin: 53px 0px 0px 56px;
+    width: 366px;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.chanel p {
+    margin: 18px 0px 0px 52px;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.ceo p {
+    color: yellow;
+    margin: 0px 0px 0px 54px;
+}
+
+.about-two{
+    width: 50%;
+    float: left;
+}
+
+.about-two-img{
+    width: 25%;
+    float: left;
+}
+
+.about-two-img img{
+    width: 123px;
+    margin: 28px auto;
+    display: block;
+    padding: 0px 0px 0px 60px;
+}
+
+.about-two-text1{
+    width: 25%;
+    float: left;
+}
+
+.about-two-text1 p {
+    color: white;
+    margin: 53px 0px 0px 56px;
+    width: 339px;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.chanel p {
+    margin: 18px 0px 0px 52px;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.ceo p {
+    color: yellow;
+    margin: 0px 0px 0px 54px;
+}
+
+/* Message section */
+.message-text {
+    background: #3C5499;
+    width: 100%;
+    height: 430px;
+    float: left;
+}
+
+.message-text h2 {
+    text-align: center;
+    margin: 31px 0px 0px 0px;
+    text-transform: capitalize;
+    color: white;
+}
+
+.message-text span {
+    width: 83px;
+    border: 1px solid black;
+    display: block;
+    margin: 19px auto;
+}
+
+.message-text p {
+    text-align: center;
+    font-size: 18px;
+    width: 585px;
+    margin: 0px 0px 0px 276px;
+    color: white;
+}
+
+.box {
+    width: 60%;
+    margin: 8px auto;
+    display: block;
+    height: 272px;
+}
+
+.name {
+    margin: 32px 5px 0px 37px;
+    display: block;
+    width: 40%;
+    padding: 5px;
+    float: left;
+    background: #0D3252;
+    color: white;
+}
+
+textarea {
+    height: 101px;
+    margin: 18px 0px 0px 39px;
+    width: 88.5%;
+    background: #0D3252;
+    padding: 5px;
+    color: white;
+}
+
+.box-btn {
+    padding: 13px;
+    text-transform: uppercase;
+    background: #30D0C1;
+    border: none;
+    margin: 12px auto;
+    display: block;
+    box-shadow: 1px 5px 0px #009688;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+/* footer section */
+
+.finish{
+    background: #344B8E;
+    width: 100%;
+    height: 80px;
+    float: left;
+}
+
+.finish nav ul li {
+    display: inline-block;
+    padding: 8px;
+    margin: 22px -28px 13px 35px;
+
+}
+
+.finish nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
